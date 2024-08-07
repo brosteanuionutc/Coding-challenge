@@ -19,7 +19,7 @@ This application processes stock price data from various exchanges, predicts fut
 - libraries os, pandas, random and zipfile
 
 ### Future enhacements
--**Logging**: Use a logging library to handle different levels of logging (info, debug, error) instead of print statements.
--**Unit Tests**: Add unit tests to verify each function behavior independently.
--**Configuration File**: Use a configuration file (i.e. JSON or YAML) to manage parameters like paths and number of files to process.
--**Command-line Arguments**: Allow passing parameters via command-line arguments for more flexibility.
+- **Logging**: Use a logging library to handle different levels of logging (info, debug, error) instead of print statements.
+- **Unit Tests**: Add unit tests to verify each function behavior independently.
+- **Configuration File**: Use a configuration file (i.e. JSON or YAML) to manage parameters like paths and number of files to process.
+- **Command-line Arguments**: Allow passing parameters via command-line arguments for more flexibility.
