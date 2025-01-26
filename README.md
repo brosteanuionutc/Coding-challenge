@@ -1,4 +1,4 @@
-# LSEG_codingchallenge
+# Coding challenge
 
 ## Overview
 This application has 2 primary functions that processes stock price data from various exchanges, predicts future stock prices based on historical data, and saves the predictions in new CSV files.
